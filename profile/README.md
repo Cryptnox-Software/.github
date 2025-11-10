@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fea27d28-c196-4c0d-bbc0-7aeb30b4a276" height="270" width="800" />
+</p>
+
 # Cryptnox
 
 Secure your digital assets with Cryptnox smart card hardware wallets. Our solutions combine trusted hardware, advanced cryptography and intuitive tools for blockchain applications.  
