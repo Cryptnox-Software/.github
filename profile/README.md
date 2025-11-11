@@ -1,38 +1,33 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fea27d28-c196-4c0d-bbc0-7aeb30b4a276" height="270" width="800" />
+  <img src="https://github.com/user-attachments/assets/fea27d28-c196-4c0d-bbc0-7aeb30b4a276" width="100%" />
 </p>
-
-# Cryptnox
 
 Secure your digital assets with Cryptnox smart card hardware wallets. Our solutions combine trusted hardware, advanced cryptography and intuitive tools for blockchain applications.  
 Manage, exchange and protect your crypto securely with our card-based wallets and developer SDKs. Learn more at [cryptnox.com](https://www.cryptnox.com).
 
-## CryptnoxPro
+## cryptnox-cli
  
-CLI for managing smart card wallets.  
+CLI for managing smart card wallets.<br/>
 Command-line interface to interact with hardware wallets, execute blockchain operations, and manage keys securely.
 
-📖 [Documentation](https://cryptnox-software.github.io/cryptnoxpro/)
+📖 [Documentation](https://cryptnox-software.github.io/cryptnoxpro/)<br/>
+🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox-cli) 
 
-🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnoxpro) 
+## cryptnox-sdk-py
 
-## CryptnoxPy
-
-Python library for managing smart card wallets via secure communication.  
+Python SDK for managing smart card wallets via secure communication.<br/>
 Provides high-level APIs to interface with smart cards, initialize wallets, manage PINs, and perform cryptographic operations.
 
-📖 [Documentation](https://cryptnox-software.github.io/cryptnoxpy/)
-
-🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnoxpy) 
+📖 [Documentation](https://cryptnox-software.github.io/cryptnoxpy/)<br/>
+🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox-sdk-py) 
 
 
 ## Cryptnox Hardware Wallet
 
-Secure smart card for managing digital assets.  
+Secure smart card for managing digital assets.<br/>
 Supports key derivation, authentication, transaction signing, and address management via Python, Rust, C++, and mobile SDKs (iOS & Android).
 
 📖 [Documentation](https://docs.cryptnox.com/hardware-wallet-v1-6/) 
-
 
 ## Links
 
