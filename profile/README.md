@@ -33,6 +33,6 @@ Supports key derivation, authentication, transaction signing, and address manage
 
 - Website: [https://www.cryptnox.com](https://www.cryptnox.com)
 - Shop now: [https://shop.cryptnox.com](https://shop.cryptnox.com)
-- Contact: [contact@cryptnox.com](mailto:contact@cryptnox.com)
+- Contact: [support@cryptnox.ch](mailto:support@cryptnox.ch)
 - LinkedIn: [https://www.linkedin.com/company/cryptnox](https://www.linkedin.com/company/cryptnox)
 - X: [https://x.com/CryptnoxTech/](https://x.com/CryptnoxTech/)
