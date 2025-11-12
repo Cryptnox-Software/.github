@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fea27d28-c196-4c0d-bbc0-7aeb30b4a276" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f703a44e-39c2-4cda-a96e-3997ce066745" width="100%" />
 </p>
 
-Secure your digital assets with Cryptnox smart card hardware wallets. Our solutions combine trusted hardware, advanced cryptography and intuitive tools for blockchain applications.  
+ssets with Cryptnox smart card hardware wallets. Our solutions combine trusted hardware, advanced cryptography and intuitive tools for blockchain applications.  
 Manage, exchange and protect your crypto securely with our card-based wallets and developer SDKs. Learn more at [cryptnox.com](https://www.cryptnox.com).
 
 ## cryptnox-cli
