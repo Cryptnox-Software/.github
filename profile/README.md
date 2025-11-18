@@ -11,7 +11,7 @@ CLI for managing smartcard wallets.<br/>
 Command-line interface to interact with hardware wallets, execute blockchain operations, and manage keys securely.
 
 📖 [Documentation](https://cryptnox-software.github.io/cryptnoxpro/)<br/>
-🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox-cli) 
+🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox_cli)
 
 ## cryptnox-sdk-py
 
@@ -19,7 +19,7 @@ Python SDK for managing smartcard wallets via secure communication.<br/>
 Provides high-level APIs to interface with smartcards, initialize wallets, manage PINs, and perform cryptographic operations.
 
 📖 [Documentation](https://cryptnox-software.github.io/cryptnoxpy/)<br/>
-🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox-sdk-py) 
+🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox_sdk_py)
 
 
 ## Cryptnox Hardware Wallet
