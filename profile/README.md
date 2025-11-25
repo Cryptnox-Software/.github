@@ -10,16 +10,16 @@ Manage, exchange and protect your crypto securely with our card-based wallets an
 CLI for managing smartcard wallets.<br/>
 Command-line interface to interact with hardware wallets, execute blockchain operations, and manage keys securely.
 
-📖 [Documentation](https://cryptnox-software.github.io/cryptnox_cli/)<br/>
-🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox-cli)
+📖 [Documentation](https://cryptnox.github.io/cryptnox-cli/)<br/>
+🔗 [Main repository](https://github.com/cryptnox/cryptnox-cli/)
 
 ## cryptnox-sdk-py
 
 Python SDK for managing smartcard wallets via secure communication.<br/>
 Provides high-level APIs to interface with smartcards, initialize wallets, manage PINs, and perform cryptographic operations.
 
-📖 [Documentation](https://cryptnox-software.github.io/cryptnox_sdk_py/)<br/>
-🔗 [Main repository](https://github.com/Cryptnox-Software/cryptnox-sdk-py)
+📖 [Documentation](https://cryptnox.github.io/cryptnox-sdk-py/)<br/>
+🔗 [Main repository](https://github.com/cryptnox/cryptnox-sdk-py/)
 
 
 ## Cryptnox Hardware Wallet
@@ -33,6 +33,6 @@ Supports key derivation, authentication, transaction signing, and address manage
 
 - Website: [https://www.cryptnox.com](https://www.cryptnox.com)
 - Shop now: [https://shop.cryptnox.com](https://shop.cryptnox.com)
-- Contact: [support@cryptnox.ch](mailto:support@cryptnox.ch)
+- Contact: [support@cryptnox.com](mailto:support@cryptnox.com)
 - LinkedIn: [https://www.linkedin.com/company/cryptnox](https://www.linkedin.com/company/cryptnox)
 - X: [https://x.com/CryptnoxTech/](https://x.com/CryptnoxTech/)
